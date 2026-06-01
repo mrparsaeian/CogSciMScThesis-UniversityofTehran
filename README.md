@@ -4,4 +4,3 @@ LaTeX for MSc theses of University of Tehran.
 
 تسک طراحی شده به وسیله ReactJS.
 
- http://www.ponya.ir/landing/ 
